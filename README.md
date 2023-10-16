@@ -1,4 +1,4 @@
-# Bank-marketing-Campaign-
+# Bank-marketing-Prediction-
 a bank ran a marketing campaign in the past and has obtained data pertaining to nearly 11,000 customers, which includes variables such as their age, jobs, bank balance, education, loan status and so on. Based on this data, the bank wants to develop its future strategies based on the insights that it drew from the previous campaign and improve for the next campaign so that more customers agree to open term deposits with the bank.
 
  
